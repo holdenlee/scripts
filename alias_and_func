@@ -1,0 +1,6 @@
+alias today='date +"%A, %B %-d, %Y"'
+
+function today {
+  echo "Today's date is:"
+  date +"%A, %B %-d, %Y"
+}
