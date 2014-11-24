@@ -51,15 +51,14 @@ commandsToShell s =
   let 
     arr = readCommands s
   in
-    (concat (map (\(x,y) -> "if [[ $1 == "++x++" ]]; then\n        cygstart \""++y++"\"\nfi\n") arr))
-#    "go ()\n{\n"++ (concat (map (\(x,y) -> "    if [[ $1 == "++x++" ]]; then\n        cygstart \""++y++"\"\n    fi\n") arr))++"}"
+    "#!/bin/bash\n\n"++(concat (map (\(x,y) -> "if [[ $1 == "++x++" ]]; then\n    cygstart \""++y++"\"\nfi\n") arr))
 
 ioFile:: String -> String -> (String -> String) -> IO ()
 ioFile inputF outputF f =
  do  
   handle <- openFile inputF ReadMode
   contents <- hGetContents handle
-  appendFile outputF (f contents)
+  writeFile outputF (f contents)
 
 main::IO ()
 main = do

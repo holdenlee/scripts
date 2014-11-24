@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cp "C:/Users/Owner/Dropbox/Math/templates/article template.tex" "C:/Users/Owner/Dropbox/Math/$1.tex"
+cygstart "C:/Users/Owner/Dropbox/Math/$1.tex"

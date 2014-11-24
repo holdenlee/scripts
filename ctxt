@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cygstart "https://docs.google.com/document/d/1N3dCoZWv9cayB812757tIghm6HU0lN2l08ldX7urRyw/edit?usp=drive_web"
+cygstart "C:/Users/Owner/Dropbox/My Stories/Context Cities/Files/Context Cities.yw5"
+cygstart "https://workflowy.com/#/e5c635842315"

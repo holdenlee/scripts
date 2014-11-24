@@ -1,0 +1,3 @@
+#!/bin/bash
+
+"C:/Program Files/Internet Explorer/iexplore.exe" C:/Users/Owner/Dropbox/Public/wiki/wiki.html

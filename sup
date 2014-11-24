@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cd "C:/Users/Owner/Dropbox/CS/scripts/"
+sed -i 's/\\/\//g' in.txt
+shortcuts in.txt go
+dos2unix go
+cp go cdt
+sed -i 's/cygstart/cd/g' cdt
+dos2unix cdt

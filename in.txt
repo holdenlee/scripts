@@ -3,6 +3,7 @@ al C:/Users/Owner/Dropbox/Math/Computation/Algorithms
 alg C:/Users/Owner/Dropbox/Math/Computation/Algorithms/algorithms.tex
 amit C:/Users/Owner/Dropbox/Math/Number theory/finite_fields/AMiIT_review.pdf
 bash C:/cygwin64/home/Owner/.bashrc
+btc C:/Users/Owner/Dropbox/Math/Computation/Cryptography/Bitcoin
 cod C:/Users/Owner/Dropbox/Math/Computation/Coding
 comb C:/Users/Owner/Dropbox/Math/Combinatorics
 combo C:/Users/Owner/Dropbox/Math/Combinatorics/probabilistic_method/part_iii_combo.pdf
@@ -12,11 +13,13 @@ cpx C:/Users/Owner/Dropbox/Math/Computation/Computability and computational comp
 detex http://detexify.kirelabs.org/classify.html
 dist C:/Users/Owner/Dropbox/Math/Analysis/functional/part_iii_distributions.pdf
 dp C:/Users/Owner/Dropbox
+dvir C:/Users/Owner/Dropbox/Math/Computation/Computability and computational complexity/dvir
 ec C:/Users/Owner/Dropbox/Math/Number theory/Elliptic_curves
 em http://www.gmail.com
 f C:/Users/Owner/Dropbox/Math/Analysis/functional/part_iii_functional.pdf
 gen https://www.sharelatex.com/project/542d9d098edf8b10736d60cb
 habit C:/Users/Owner/Dropbox/Learning/life/habit queue.xlsx
+hs C:/Users/Owner/Dropbox/CS/hs
 la C:/Users/Owner/Dropbox/Math/Algebra/linear_algebra/Linear Algebra Notes2.pdf
 lyx C:/Program Files (x86)/LyX20/bin/LyX.exe
 mac C:/Users/Owner/Dropbox/Math/templates/macros.tex
@@ -26,6 +29,7 @@ nt C:/Users/Owner/Dropbox/Math/Number theory/textbook/number-theory.pdf
 py C:/Users/Owner/Dropbox/CS/Python Study Guide.docx
 sc C:/Users/Owner/Dropbox/CS/hs/scripts/in.txt
 sch C:/Users/Owner/Dropbox/Math/Geometry/algebraic_geometry/FOAGjun1113public.pdf
+scr C:/Users/Owner/Dropbox/CS/scripts
 temp C:/Users/Owner/Dropbox/Math/templates
 wf http://www.workflowy.com
 404 C:/Users/Owner/Dropbox/Math/Computation/Computability and computational complexity/18.404/main.pdf
