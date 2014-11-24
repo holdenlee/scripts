@@ -1,0 +1,34 @@
+a C:/Users/Owner/Dropbox/Math/Algebra/abstract_algebra/Algebra Notes.pdf
+al C:/Users/Owner/Dropbox/Math/Computation/Algorithms
+alg C:/Users/Owner/Dropbox/Math/Computation/Algorithms/algorithms.tex
+amit C:/Users/Owner/Dropbox/Math/Number theory/finite_fields/AMiIT_review.pdf
+bash C:/cygwin64/home/Owner/.bashrc
+cod C:/Users/Owner/Dropbox/Math/Computation/Coding
+comb C:/Users/Owner/Dropbox/Math/Combinatorics
+combo C:/Users/Owner/Dropbox/Math/Combinatorics/probabilistic_method/part_iii_combo.pdf
+cd C:/Users/Owner/Dropbox/Math/Reference/LaTeX/CDGuide.pdf
+cp C:/Users/Owner/Dropbox/Math/Computation
+cpx C:/Users/Owner/Dropbox/Math/Computation/Computability and computational complexity/complexity.tex
+detex http://detexify.kirelabs.org/classify.html
+dist C:/Users/Owner/Dropbox/Math/Analysis/functional/part_iii_distributions.pdf
+dp C:/Users/Owner/Dropbox
+ec C:/Users/Owner/Dropbox/Math/Number theory/Elliptic_curves
+em http://www.gmail.com
+f C:/Users/Owner/Dropbox/Math/Analysis/functional/part_iii_functional.pdf
+gen https://www.sharelatex.com/project/542d9d098edf8b10736d60cb
+habit C:/Users/Owner/Dropbox/Learning/life/habit queue.xlsx
+la C:/Users/Owner/Dropbox/Math/Algebra/linear_algebra/Linear Algebra Notes2.pdf
+lyx C:/Program Files (x86)/LyX20/bin/LyX.exe
+mac C:/Users/Owner/Dropbox/Math/templates/macros.tex
+new C:/Users/Owner/Music/Playlists/NewgroundsAll.wpl
+ns C:/Users/Owner/Dropbox/Math/Combinatorics/probabilistic_method/noise_sensitivity2.pdf
+nt C:/Users/Owner/Dropbox/Math/Number theory/textbook/number-theory.pdf
+py C:/Users/Owner/Dropbox/CS/Python Study Guide.docx
+sc C:/Users/Owner/Dropbox/CS/hs/scripts/in.txt
+sch C:/Users/Owner/Dropbox/Math/Geometry/algebraic_geometry/FOAGjun1113public.pdf
+temp C:/Users/Owner/Dropbox/Math/templates
+wf http://www.workflowy.com
+404 C:/Users/Owner/Dropbox/Math/Computation/Computability and computational complexity/18.404/main.pdf
+750 http://www.750words.com
+783 C:/Users/Owner/Dropbox/Math/Number theory/Elliptic_curves/18.783
+997 C:/Users/Owner/Dropbox/Math/Combinatorics/probabilistic_method/notes/main.tex
