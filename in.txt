@@ -15,6 +15,7 @@ dist C:/Users/Owner/Dropbox/Math/Analysis/functional/part_iii_distributions.pdf
 dp C:/Users/Owner/Dropbox
 dvir C:/Users/Owner/Dropbox/Math/Computation/Computability and computational complexity/dvir
 ec C:/Users/Owner/Dropbox/Math/Number theory/Elliptic_curves
+elm C:\Users\Owner\Dropbox\CS\hs\elm
 em http://www.gmail.com
 f C:/Users/Owner/Dropbox/Math/Analysis/functional/part_iii_functional.pdf
 gen https://www.sharelatex.com/project/542d9d098edf8b10736d60cb
@@ -27,7 +28,7 @@ new C:/Users/Owner/Music/Playlists/NewgroundsAll.wpl
 ns C:/Users/Owner/Dropbox/Math/Combinatorics/probabilistic_method/noise_sensitivity2.pdf
 nt C:/Users/Owner/Dropbox/Math/Number theory/textbook/number-theory.pdf
 py C:/Users/Owner/Dropbox/CS/Python Study Guide.docx
-sc C:/Users/Owner/Dropbox/CS/hs/scripts/in.txt
+sc C:/Users/Owner/Dropbox/CS/scripts/in.txt
 sch C:/Users/Owner/Dropbox/Math/Geometry/algebraic_geometry/FOAGjun1113public.pdf
 scr C:/Users/Owner/Dropbox/CS/scripts
 temp C:/Users/Owner/Dropbox/Math/templates
