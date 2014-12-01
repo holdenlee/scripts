@@ -1,39 +1,53 @@
 a C:/Users/Owner/Dropbox/Math/Algebra/abstract_algebra/Algebra Notes.pdf
+ac C:/Users/Owner/Dropbox/Math/Number theory/Additive_combinatorics/Additive combinatorics/main.pdf
+actv C:/Users/Owner/Dropbox/Math/Number theory/Additive_combinatorics/Additive Combinatorics, Tao and Vu.pdf
 al C:/Users/Owner/Dropbox/Math/Computation/Algorithms
 alg C:/Users/Owner/Dropbox/Math/Computation/Algorithms/algorithms.tex
 amit C:/Users/Owner/Dropbox/Math/Number theory/finite_fields/AMiIT_review.pdf
 bash C:/cygwin64/home/Owner/.bashrc
 btc C:/Users/Owner/Dropbox/Math/Computation/Cryptography/Bitcoin
+cal https://www.google.com/calendar/render?pli=1#g
 cod C:/Users/Owner/Dropbox/Math/Computation/Coding
 comb C:/Users/Owner/Dropbox/Math/Combinatorics
 combo C:/Users/Owner/Dropbox/Math/Combinatorics/probabilistic_method/part_iii_combo.pdf
 cd C:/Users/Owner/Dropbox/Math/Reference/LaTeX/CDGuide.pdf
 cp C:/Users/Owner/Dropbox/Math/Computation
 cpx C:/Users/Owner/Dropbox/Math/Computation/Computability and computational complexity/complexity.tex
+cs C:/Users/Owner/Dropbox/CS
 detex http://detexify.kirelabs.org/classify.html
 dist C:/Users/Owner/Dropbox/Math/Analysis/functional/part_iii_distributions.pdf
-dp C:/Users/Owner/Dropbox
+dl C:/Users/Owner/Downloads
+db C:/Users/Owner/Dropbox
 dvir C:/Users/Owner/Dropbox/Math/Computation/Computability and computational complexity/dvir
 ec C:/Users/Owner/Dropbox/Math/Number theory/Elliptic_curves
-elm C:\Users\Owner\Dropbox\CS\hs\elm
+elm C:/Users/Owner/Dropbox/CS/hs/elm
 em http://www.gmail.com
 f C:/Users/Owner/Dropbox/Math/Analysis/functional/part_iii_functional.pdf
+fb http://www.facebook.com
 gen https://www.sharelatex.com/project/542d9d098edf8b10736d60cb
 habit C:/Users/Owner/Dropbox/Learning/life/habit queue.xlsx
+hott C:/Users/Owner/Dropbox/Math/Computation/HoTT.pdf
 hs C:/Users/Owner/Dropbox/CS/hs
 la C:/Users/Owner/Dropbox/Math/Algebra/linear_algebra/Linear Algebra Notes2.pdf
 lyx C:/Program Files (x86)/LyX20/bin/LyX.exe
 mac C:/Users/Owner/Dropbox/Math/templates/macros.tex
+math C:/Users/Owner/Dropbox/Math
 new C:/Users/Owner/Music/Playlists/NewgroundsAll.wpl
 ns C:/Users/Owner/Dropbox/Math/Combinatorics/probabilistic_method/noise_sensitivity2.pdf
 nt C:/Users/Owner/Dropbox/Math/Number theory/textbook/number-theory.pdf
+pr C:/Program Files
+pr6 C:/Program Files (x86)
 py C:/Users/Owner/Dropbox/CS/Python Study Guide.docx
 sc C:/Users/Owner/Dropbox/CS/scripts/in.txt
 sch C:/Users/Owner/Dropbox/Math/Geometry/algebraic_geometry/FOAGjun1113public.pdf
 scr C:/Users/Owner/Dropbox/CS/scripts
 temp C:/Users/Owner/Dropbox/Math/templates
+th C:/Users/Owner/Dropbox/Math/thread.tex
+to https://workflowy.com/#/35faf5a77453
+txt C:/Users/Owner/Dropbox/Math/Number theory/textbook
 wf http://www.workflowy.com
 404 C:/Users/Owner/Dropbox/Math/Computation/Computability and computational complexity/18.404/main.pdf
 750 http://www.750words.com
 783 C:/Users/Owner/Dropbox/Math/Number theory/Elliptic_curves/18.783
+965 C:/Users/Owner/Dropbox/Math/Geometry/riemannian/18.965/main.pdf
 997 C:/Users/Owner/Dropbox/Math/Combinatorics/probabilistic_method/notes/main.tex
