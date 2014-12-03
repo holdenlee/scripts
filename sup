@@ -2,8 +2,16 @@
 
 cd "C:/Users/Owner/Dropbox/CS/scripts/"
 sed -i 's/\\/\//g' in.txt
-shortcuts in.txt go
+shortcuts in.txt g
+dos2unix g
+cp g c
+sed -i 's/cygstart/cd/g' c
+dos2unix c
+
+#big computer
+cp g go
+cp c cdt
+sed -i 's/Owner/holden-lee/g' go
+sed -i 's/Owner/holden-lee/g' cdt
 dos2unix go
-cp go cdt
-sed -i 's/cygstart/cd/g' cdt
 dos2unix cdt
