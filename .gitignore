@@ -3,8 +3,11 @@
 
 *.hi
 *.o
+*.asv
 
 # Miscellaneous files #
 #######################
 
+Kevin's Old code/outputs/
+Kevin's Old code/outputs/*
 *~

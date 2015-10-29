@@ -12,6 +12,7 @@ import Utilities
 import Text.ParserCombinators.Parsec
 import System.IO  
 import Text.Parsec.Language (emptyDef)
+import Data.Char
 
 --delimToList:: a->[a]->[[a]]
 --delimToList 
@@ -46,12 +47,18 @@ readCommands::String -> [(String,String)]
 readCommands s =
   justRight (parse (parseCommands []) "error" s)
 
-commandsToShell::String -> String
-commandsToShell s = 
-  let 
+formatPairs :: String -> ((String,String) -> String) -> [(String,String)] -> String
+formatPairs header f arr = header ++ (concat (map f arr))
+
+pairsToEnvVars :: [(String, String)] -> String
+pairsToEnvVars arr = formatPairs "#!/bin/bash\n\n" (\(x,y) -> "setx X"++ (map toUpper x) ++ " \"" ++ y ++ "\" /M\n") arr
+
+pairsToCommands::[(String, String)] -> String
+pairsToCommands arr = formatPairs "#!/bin/bash\n\n" (\(x,y) -> "if [[ $1 == "++x++" ]]; then\n    cygstart \""++y++"\"\nfi\n") arr
+{-  let 
     arr = readCommands s
   in
-    "#!/bin/bash\n\n"++(concat (map (\(x,y) -> "if [[ $1 == "++x++" ]]; then\n    cygstart \""++y++"\"\nfi\n") arr))
+    "#!/bin/bash\n\n"++(concat (map (\(x,y) -> "if [[ $1 == "++x++" ]]; then\n    cygstart \""++y++"\"\nfi\n") arr))-}
 
 ioFile:: String -> String -> (String -> String) -> IO ()
 ioFile inputF outputF f =
@@ -60,9 +67,19 @@ ioFile inputF outputF f =
   contents <- hGetContents handle
   writeFile outputF (f contents)
 
+iFile :: String -> (String -> a) -> IO a
+iFile inputF f = 
+    do  
+      handle <- openFile inputF ReadMode
+      contents <- hGetContents handle
+      return (f contents)
+
 main::IO ()
 main = do
   args <- getArgs
   let a0 = if (length args == 0) then "in.txt" else (args!!0)
   let a1 = if (length args <= 1) then "out.txt" else (args!!1)
-  ioFile a0 a1 commandsToShell
+  arr <- iFile a0 readCommands
+  writeFile a1 (pairsToCommands arr)
+  writeFile "setenv" (pairsToEnvVars arr)
+--  ioFile a0 a1 commandsToShell

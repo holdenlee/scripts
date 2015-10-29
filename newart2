@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cp "C:/Users/holden-lee/Dropbox/Math/templates/article template.tex" "C:/Users/holden-lee/Dropbox/Math/$1.tex"
+sed -i "s/TITLE 1/$2/g" "C:/Users/holden-lee/Dropbox/Math/$1.tex"
+sed -i "s/TITLE 2/$3/g" "C:/Users/holden-lee/Dropbox/Math/$1.tex"
+cygstart "C:/Users/holden-lee/Dropbox/Math/$1.tex"

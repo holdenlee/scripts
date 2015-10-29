@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd "C:/Users/Owner/Dropbox/CS/scripts/"
+cd "C:/Users/holden-lee/Dropbox/CS/scripts/"
 sed -i 's/\\/\//g' in.txt
 shortcuts in.txt g
 dos2unix g
@@ -16,5 +16,6 @@ sed -i 's/Owner/holden-lee/g' cdt
 dos2unix go
 dos2unix cdt
 
-dos2unix setenv
-setenv
+cp setenv setenv2
+sed -i 's/Owner/holden-lee/g' setenv2
+setenv2

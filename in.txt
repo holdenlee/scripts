@@ -1,53 +1,115 @@
 a C:/Users/Owner/Dropbox/Math/Algebra/abstract_algebra/Algebra Notes.pdf
 ac C:/Users/Owner/Dropbox/Math/Number theory/Additive_combinatorics/Additive combinatorics/main.pdf
 actv C:/Users/Owner/Dropbox/Math/Number theory/Additive_combinatorics/Additive Combinatorics, Tao and Vu.pdf
+ag C:/Users/Owner/Dropbox/Math/Geometry/algebraic_geometry
 al C:/Users/Owner/Dropbox/Math/Computation/Algorithms
 alg C:/Users/Owner/Dropbox/Math/Computation/Algorithms/algorithms.tex
 amit C:/Users/Owner/Dropbox/Math/Number theory/finite_fields/AMiIT_review.pdf
 an C:/Users/Owner/Dropbox/Math/Analysis
+aobf C:/Users/Owner/Dropbox/Math/Computation/analysis and geometry/Analysis-Of-Boolean-Functions-version1-01-by-Ryan-ODonnell.pdf
+aos C:/Users/Owner/Dropbox/Math/Statistics/Larry Wasserman All of Statistics - A Concise Course in Statistical Inference  2004.pdf
+at C:/Users/Owner/Dropbox/Math/Geometry/algebraic_topology/at-notes.pdf
 bash C:/cygwin64/home/Owner/.bashrc
+brs C:/Users/Owner/Dropbox/Math/Computation/general/seminars/braverman/braverman_seminar.tex
 btc C:/Users/Owner/Dropbox/Math/Computation/Cryptography/Bitcoin
+C C:/Users/Owner/Dropbox/Math/Analysis/complex
+ca C:/Users/Owner/Dropbox/Math/Algebra/commutative_algebra/10Nts-2up.pdf
+ca1 C:/Users/Owner/Dropbox/Math/Algebra/commutative_algebra
 cal https://www.google.com/calendar/render?pli=1#g
+cc C:/Users/Owner/Dropbox/Math/Computation/complexity/communication
 cod C:/Users/Owner/Dropbox/Math/Computation/Coding
 comb C:/Users/Owner/Dropbox/Math/Combinatorics
 combo C:/Users/Owner/Dropbox/Math/Combinatorics/probabilistic_method/part_iii_combo.pdf
 cd C:/Users/Owner/Dropbox/Math/Reference/LaTeX/CDGuide.pdf
 cp C:/Users/Owner/Dropbox/Math/Computation
-cpx C:/Users/Owner/Dropbox/Math/Computation/Computability and computational complexity/complexity.tex
+cpx C:/Users/Owner/Dropbox/Math/Computation/complexity/complexity.tex
+cr C:/Users/Owner/Dropbox/Math/Algebra/commutative_algebra/CRing.pdf
 cs C:/Users/Owner/Dropbox/CS
+csdm C:/Users/Owner/Dropbox/Math/Computation/general/seminars/csdm/csdm.tex
+cvx C:/Users/Owner/Dropbox/Math/Computation/machine_learning/optimization/bv_cvxbook
+d C:/Users/Owner/Dropbox/Diary
 detex http://detexify.kirelabs.org/classify.html
 dist C:/Users/Owner/Dropbox/Math/Analysis/functional/part_iii_distributions.pdf
 dl C:/Users/Owner/Downloads
+dr https://drive.google.com/#my-drive
 db C:/Users/Owner/Dropbox
-dvir C:/Users/Owner/Dropbox/Math/Computation/Computability and computational complexity/dvir
+dl C:/Users/Owner/Downloads
+dvir C:/Users/Owner/Dropbox/Math/Computation/complexity/dvir
 ec C:/Users/Owner/Dropbox/Math/Number theory/Elliptic_curves
 elm C:/Users/Owner/Dropbox/CS/hs/elm
+elmdoc C:/Program Files (x86)/Elm Platform/0.15/lib/core-2.1.0/src
 em http://www.gmail.com
+emacs C:/Users/Owner/AppData/Roaming/.emacs.d
 f C:/Users/Owner/Dropbox/Math/Analysis/functional/part_iii_functional.pdf
+farg C:/Users/Owner/Dropbox/CS/AI/FARG
 fb http://www.facebook.com
+foag C:/Users/Owner/Dropbox/Math/Geometry/algebraic_geometry/FOAG.pdf
+gems C:/Users/Owner/Dropbox/Math/Computation/general/seminars/gems/gems_of_tcs.tex
 gen https://www.sharelatex.com/project/542d9d098edf8b10736d60cb
 habit C:/Users/Owner/Dropbox/Learning/life/habit queue.xlsx
 hott C:/Users/Owner/Dropbox/Math/Computation/HoTT.pdf
 hs C:/Users/Owner/Dropbox/CS/hs
+hsp C:/Program Files/Haskell Platform/7.10.2-a
+i C:/Users/Owner/Dropbox/Diary/thoughts.html
+l C:/Users/Owner/Dropbox/Learning
 la C:/Users/Owner/Dropbox/Math/Algebra/linear_algebra/Linear Algebra Notes2.pdf
 lyx C:/Program Files (x86)/LyX20/bin/LyX.exe
 mac C:/Users/Owner/Dropbox/Math/templates/macros.tex
+mail http://www.gmail.com
 math C:/Users/Owner/Dropbox/Math
+ml C:/Users/Owner/Dropbox/Math/Computation/machine_learning
+mls C:/Users/Owner/Dropbox/Math/Computation/general/seminars/ml/ml_seminar.tex
+neu C:/Users/Owner/Dropbox/Learning/science/bcs/neuroscience
 new C:/Users/Owner/Music/Playlists/NewgroundsAll.wpl
+nn C:/Users/Owner/Dropbox/Math/Computation/machine_learning/neural_nets
 ns C:/Users/Owner/Dropbox/Math/Combinatorics/probabilistic_method/noise_sensitivity2.pdf
 nt C:/Users/Owner/Dropbox/Math/Number theory/textbook/number-theory.pdf
+oco C:/Users/Owner/Dropbox/Math/Computation/Machine_learning/cos511/OCObook.pdf
+pde C:/Users/Owner/Dropbox/Math/Analysis/PDE
+pdf C:/Users/Owner/Dropbox/Public/wiki/math/pdfs
+pic C:/Users/Owner/Pictures
+pm C:/Users/Owner/Dropbox/Math/Computation/machine_learning/prob_models
 pr C:/Program Files
 pr6 C:/Program Files (x86)
+prog C:/Users/Owner/Dropbox/website/prog.html
+pwd https://workflowy.com/#/0fb1608d0ee7
+rand C:/Users/Owner/Dropbox/Math/Computation/complexity/randomness
+pub C:/Users/Owner/Dropbox/Public
+puzz C:/Users/Owner/Dropbox/Learning/puzzles
 py C:/Users/Owner/Dropbox/CS/Python Study Guide.docx
+qc C:/Users/Owner/Dropbox/Math/Computation/quantum_computation
+qit C:/Users/Owner/Dropbox/Math/Computation/QIT
+R C:/Users/Owner/Dropbox/Math/Analysis/real
+rat C:/Users/Owner/Dropbox/Learning/Rationality
+rats C:/Users/Owner/Dropbox/Learning/science/bcs/neuroscience/rats/rat-bandit
+ratsp C:/Users/Owner/Dropbox/Learning/science/bcs/neuroscience/rats/rat-bandit-ghp
+raz C:/Users/Owner/Dropbox/Learning/Rationality/rationality_from_ai_to_zombies/rationality_from_ai_to_zombies.pdf
 sc C:/Users/Owner/Dropbox/CS/scripts/in.txt
 sch C:/Users/Owner/Dropbox/Math/Geometry/algebraic_geometry/FOAGjun1113public.pdf
 scr C:/Users/Owner/Dropbox/CS/scripts
+sem C:/Users/Owner/Dropbox/Math/Computation/general/seminars
+silv C:/Users/Owner/Dropbox/Math/Number theory/Elliptic_curves/Silverman
+sl http://www.sharelatex.com
+spic C:/Users/Public/Pictures/Sample Pictures
+ss C:/SciSoft
+ss1 C:/Users/Owner/Dropbox/Math/Analysis/texts/Stein Shakarchi 1 Fourier analysis.pdf
+ss2 C:/Users/Owner/Dropbox/Math/Analysis/texts/Stein Shakarchi 2 Complex Analysis.pdf
+ss3 C:/Users/Owner/Dropbox/Math/Analysis/texts/Stein Shakarchi 3 Real analysis measure theory, integration, and Hilbert spaces.pdf
+ss4 C:/Users/Owner/Dropbox/Math/Analysis/texts/Stein, Shakarchi 4 Functional Analysis.epub
+st C:/Users/Owner/Dropbox/My Stories
+stat C:/Users/Owner/Dropbox/Math/Statistics
 temp C:/Users/Owner/Dropbox/Math/templates
-th C:/Users/Owner/Dropbox/Math/thread.tex
+th C:/Users/Owner/Dropbox/Math/thread
 to https://workflowy.com/#/35faf5a77453
+tp C:/Users/Owner/Dropbox/CS/theorem_proving
 txt C:/Users/Owner/Dropbox/Math/Number theory/textbook
+web C:/Users/Owner/Dropbox/website/holdenlee.github.io/
 wf http://www.workflowy.com
-404 C:/Users/Owner/Dropbox/Math/Computation/Computability and computational complexity/18.404/main.pdf
+wiki C:/Users/Owner/Dropbox/website/holdenlee.github.io/index.html
+zeev C:/Users/Owner/Dropbox/Math/Computation/general/advising/zeev.tex
+125 C:/Users/Owner/Dropbox/Math/Analysis/measure_theory/notes/main.pdf
+404 C:/Users/Owner/Dropbox/Math/Computation/complexity/18.404/main.pdf
+705 C:/Users/Owner/Dropbox/Math/Algebra/commutative_algebra/10Nts-2up.pdf
 750 http://www.750words.com
 783 C:/Users/Owner/Dropbox/Math/Number theory/Elliptic_curves/18.783
 965 C:/Users/Owner/Dropbox/Math/Geometry/riemannian/18.965/main.pdf

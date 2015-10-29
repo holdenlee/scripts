@@ -1,0 +1,89 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+use Getopt::Long;
+use Pod::Usage;
+
+Getopt::Long::Configure ("bundling");
+my ($printer, @options, $einseitig, $pages, $user, $homedir, $server, $help);
+#$printer = "d101";
+#$user = "mdb03bp";
+$printer="fineb22";
+$user="holdenl";
+#$server = "cip90.math.uni-muenchen.de";
+$server = "math.princeton.edu";
+#$homedir = "/home/cip/$user";
+$homedir = "/u/holdenl";
+GetOptions('p=s' => \$printer, 'o=s' => \@options, '1' => \$einseitig, 'P=s' => \$pages, 'u=s' => \$user, 's=s' => \$server, 'h|help' => \$help) or pod2usage(-exitval => 1, -verbose => 2, -output => \*STDERR);
+not defined $help or pod2usage(-exitval => 0, -verbose => 2, -output => \*STDERR);
+scalar(@ARGV) > 0 or pod2usage(-exitval => 1, -verbose => 2, -output => \*STDERR);
+
+my $opts = "";
+$opts .= "-o sides=two-sided-long-edge " if not $einseitig;
+$opts .= "-P $pages " if $pages;
+
+foreach my $opt (@options) {
+	$opts .= "$opt ";
+}
+
+foreach my $file (@ARGV) {
+	print "Drucke $file...\n";
+	$file =~ m/\.(.*)/ or die "Seltsamer Dateiname $file!";
+	my $endung = $1;
+	my $zeitstempel = `date "+%Y-%m-%d--%H:%M:%S.%N"`;
+	chomp $zeitstempel;
+	my $unidateiname = "$homedir/print/pr-$zeitstempel.$endung";
+	print "\'$unidateiname\'";
+ 	system("scp $file $user\@$server:$unidateiname");
+	#my $command = "lp -d $printer $opts $unidateiname ; printquota";
+	my $command = "lp -d $printer $opts $unidateiname";
+	print "$command\n";
+	system("ssh $user\@$server '$command'");
+}
+
+__END__
+
+=head1 NAME
+
+uniprint - Druckt eine Datei in der Uni
+
+=head1 SYNOPSIS
+
+uniprint [options] Dateiname(n)
+
+=head1 OPTIONS
+
+=over 8
+
+=item B<-p PRINTER>
+
+Druckt mit diesem Drucker
+
+=item B<-o OPTION>
+
+Übergebe lp die Option(en)
+
+=item B<-1>
+
+Einseitig drucken
+
+=item B<-P SEITEN>
+
+Druckt nur die angegebenen Seiten. Beispiel: 1,3-5,10
+
+=item B<-u USER>
+
+Druckt als dieser Benutzer
+
+=item B<-s SERVER>
+
+Druckt auf diesem Server
+
+=item B<-h, --help>
+
+Hilfe ausgeben
+
+=back
+
+=cut

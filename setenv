@@ -1,0 +1,118 @@
+#!/bin/bash
+
+setx X997 "C:/Users/Owner/Dropbox/Math/Combinatorics/probabilistic_method/notes/main.tex" /M
+setx X965 "C:/Users/Owner/Dropbox/Math/Geometry/riemannian/18.965/main.pdf" /M
+setx X783 "C:/Users/Owner/Dropbox/Math/Number theory/Elliptic_curves/18.783" /M
+setx X750 "http://www.750words.com" /M
+setx X705 "C:/Users/Owner/Dropbox/Math/Algebra/commutative_algebra/10Nts-2up.pdf" /M
+setx X404 "C:/Users/Owner/Dropbox/Math/Computation/complexity/18.404/main.pdf" /M
+setx X125 "C:/Users/Owner/Dropbox/Math/Analysis/measure_theory/notes/main.pdf" /M
+setx XZEEV "C:/Users/Owner/Dropbox/Math/Computation/general/advising/zeev.tex" /M
+setx XWIKI "C:/Users/Owner/Dropbox/website/holdenlee.github.io/index.html" /M
+setx XWF "http://www.workflowy.com" /M
+setx XWEB "C:/Users/Owner/Dropbox/website/holdenlee.github.io/" /M
+setx XTXT "C:/Users/Owner/Dropbox/Math/Number theory/textbook" /M
+setx XTP "C:/Users/Owner/Dropbox/CS/theorem_proving" /M
+setx XTO "https://workflowy.com/#/35faf5a77453" /M
+setx XTH "C:/Users/Owner/Dropbox/Math/thread" /M
+setx XTEMP "C:/Users/Owner/Dropbox/Math/templates" /M
+setx XSTAT "C:/Users/Owner/Dropbox/Math/Statistics" /M
+setx XST "C:/Users/Owner/Dropbox/My Stories" /M
+setx XSS4 "C:/Users/Owner/Dropbox/Math/Analysis/texts/Stein, Shakarchi 4 Functional Analysis.epub" /M
+setx XSS3 "C:/Users/Owner/Dropbox/Math/Analysis/texts/Stein Shakarchi 3 Real analysis measure theory, integration, and Hilbert spaces.pdf" /M
+setx XSS2 "C:/Users/Owner/Dropbox/Math/Analysis/texts/Stein Shakarchi 2 Complex Analysis.pdf" /M
+setx XSS1 "C:/Users/Owner/Dropbox/Math/Analysis/texts/Stein Shakarchi 1 Fourier analysis.pdf" /M
+setx XSS "C:/SciSoft" /M
+setx XSPIC "C:/Users/Public/Pictures/Sample Pictures" /M
+setx XSL "http://www.sharelatex.com" /M
+setx XSILV "C:/Users/Owner/Dropbox/Math/Number theory/Elliptic_curves/Silverman" /M
+setx XSEM "C:/Users/Owner/Dropbox/Math/Computation/general/seminars" /M
+setx XSCR "C:/Users/Owner/Dropbox/CS/scripts" /M
+setx XSCH "C:/Users/Owner/Dropbox/Math/Geometry/algebraic_geometry/FOAGjun1113public.pdf" /M
+setx XSC "C:/Users/Owner/Dropbox/CS/scripts/in.txt" /M
+setx XRAZ "C:/Users/Owner/Dropbox/Learning/Rationality/rationality_from_ai_to_zombies/rationality_from_ai_to_zombies.pdf" /M
+setx XRATSP "C:/Users/Owner/Dropbox/Learning/science/bcs/neuroscience/rats/rat-bandit-ghp" /M
+setx XRATS "C:/Users/Owner/Dropbox/Learning/science/bcs/neuroscience/rats/rat-bandit" /M
+setx XRAT "C:/Users/Owner/Dropbox/Learning/Rationality" /M
+setx XR "C:/Users/Owner/Dropbox/Math/Analysis/real" /M
+setx XQIT "C:/Users/Owner/Dropbox/Math/Computation/QIT" /M
+setx XQC "C:/Users/Owner/Dropbox/Math/Computation/quantum_computation" /M
+setx XPY "C:/Users/Owner/Dropbox/CS/Python Study Guide.docx" /M
+setx XPUZZ "C:/Users/Owner/Dropbox/Learning/puzzles" /M
+setx XPUB "C:/Users/Owner/Dropbox/Public" /M
+setx XRAND "C:/Users/Owner/Dropbox/Math/Computation/complexity/randomness" /M
+setx XPWD "https://workflowy.com/#/0fb1608d0ee7" /M
+setx XPROG "C:/Users/Owner/Dropbox/website/prog.html" /M
+setx XPR6 "C:/Program Files (x86)" /M
+setx XPR "C:/Program Files" /M
+setx XPM "C:/Users/Owner/Dropbox/Math/Computation/machine_learning/prob_models" /M
+setx XPIC "C:/Users/Owner/Pictures" /M
+setx XPDF "C:/Users/Owner/Dropbox/Public/wiki/math/pdfs" /M
+setx XPDE "C:/Users/Owner/Dropbox/Math/Analysis/PDE" /M
+setx XOCO "C:/Users/Owner/Dropbox/Math/Computation/Machine_learning/cos511/OCObook.pdf" /M
+setx XNT "C:/Users/Owner/Dropbox/Math/Number theory/textbook/number-theory.pdf" /M
+setx XNS "C:/Users/Owner/Dropbox/Math/Combinatorics/probabilistic_method/noise_sensitivity2.pdf" /M
+setx XNN "C:/Users/Owner/Dropbox/Math/Computation/machine_learning/neural_nets" /M
+setx XNEW "C:/Users/Owner/Music/Playlists/NewgroundsAll.wpl" /M
+setx XNEU "C:/Users/Owner/Dropbox/Learning/science/bcs/neuroscience" /M
+setx XMLS "C:/Users/Owner/Dropbox/Math/Computation/general/seminars/ml/ml_seminar.tex" /M
+setx XML "C:/Users/Owner/Dropbox/Math/Computation/machine_learning" /M
+setx XMATH "C:/Users/Owner/Dropbox/Math" /M
+setx XMAIL "http://www.gmail.com" /M
+setx XMAC "C:/Users/Owner/Dropbox/Math/templates/macros.tex" /M
+setx XLYX "C:/Program Files (x86)/LyX20/bin/LyX.exe" /M
+setx XLA "C:/Users/Owner/Dropbox/Math/Algebra/linear_algebra/Linear Algebra Notes2.pdf" /M
+setx XL "C:/Users/Owner/Dropbox/Learning" /M
+setx XI "C:/Users/Owner/Dropbox/Diary/thoughts.html" /M
+setx XHSP "C:/Program Files/Haskell Platform/7.10.2-a" /M
+setx XHS "C:/Users/Owner/Dropbox/CS/hs" /M
+setx XHOTT "C:/Users/Owner/Dropbox/Math/Computation/HoTT.pdf" /M
+setx XHABIT "C:/Users/Owner/Dropbox/Learning/life/habit queue.xlsx" /M
+setx XGEN "https://www.sharelatex.com/project/542d9d098edf8b10736d60cb" /M
+setx XGEMS "C:/Users/Owner/Dropbox/Math/Computation/general/seminars/gems/gems_of_tcs.tex" /M
+setx XFOAG "C:/Users/Owner/Dropbox/Math/Geometry/algebraic_geometry/FOAG.pdf" /M
+setx XFB "http://www.facebook.com" /M
+setx XFARG "C:/Users/Owner/Dropbox/CS/AI/FARG" /M
+setx XF "C:/Users/Owner/Dropbox/Math/Analysis/functional/part_iii_functional.pdf" /M
+setx XEMACS "C:/Users/Owner/AppData/Roaming/.emacs.d" /M
+setx XEM "http://www.gmail.com" /M
+setx XELMDOC "C:/Program Files (x86)/Elm Platform/0.15/lib/core-2.1.0/src" /M
+setx XELM "C:/Users/Owner/Dropbox/CS/hs/elm" /M
+setx XEC "C:/Users/Owner/Dropbox/Math/Number theory/Elliptic_curves" /M
+setx XDVIR "C:/Users/Owner/Dropbox/Math/Computation/complexity/dvir" /M
+setx XDL "C:/Users/Owner/Downloads" /M
+setx XDB "C:/Users/Owner/Dropbox" /M
+setx XDR "https://drive.google.com/#my-drive" /M
+setx XDL "C:/Users/Owner/Downloads" /M
+setx XDIST "C:/Users/Owner/Dropbox/Math/Analysis/functional/part_iii_distributions.pdf" /M
+setx XDETEX "http://detexify.kirelabs.org/classify.html" /M
+setx XD "C:/Users/Owner/Dropbox/Diary" /M
+setx XCVX "C:/Users/Owner/Dropbox/Math/Computation/machine_learning/optimization/bv_cvxbook" /M
+setx XCSDM "C:/Users/Owner/Dropbox/Math/Computation/general/seminars/csdm/csdm.tex" /M
+setx XCS "C:/Users/Owner/Dropbox/CS" /M
+setx XCR "C:/Users/Owner/Dropbox/Math/Algebra/commutative_algebra/CRing.pdf" /M
+setx XCPX "C:/Users/Owner/Dropbox/Math/Computation/complexity/complexity.tex" /M
+setx XCP "C:/Users/Owner/Dropbox/Math/Computation" /M
+setx XCD "C:/Users/Owner/Dropbox/Math/Reference/LaTeX/CDGuide.pdf" /M
+setx XCOMBO "C:/Users/Owner/Dropbox/Math/Combinatorics/probabilistic_method/part_iii_combo.pdf" /M
+setx XCOMB "C:/Users/Owner/Dropbox/Math/Combinatorics" /M
+setx XCOD "C:/Users/Owner/Dropbox/Math/Computation/Coding" /M
+setx XCC "C:/Users/Owner/Dropbox/Math/Computation/complexity/communication" /M
+setx XCAL "https://www.google.com/calendar/render?pli=1#g" /M
+setx XCA1 "C:/Users/Owner/Dropbox/Math/Algebra/commutative_algebra" /M
+setx XCA "C:/Users/Owner/Dropbox/Math/Algebra/commutative_algebra/10Nts-2up.pdf" /M
+setx XC "C:/Users/Owner/Dropbox/Math/Analysis/complex" /M
+setx XBTC "C:/Users/Owner/Dropbox/Math/Computation/Cryptography/Bitcoin" /M
+setx XBRS "C:/Users/Owner/Dropbox/Math/Computation/general/seminars/braverman/braverman_seminar.tex" /M
+setx XBASH "C:/cygwin64/home/Owner/.bashrc" /M
+setx XAT "C:/Users/Owner/Dropbox/Math/Geometry/algebraic_topology/at-notes.pdf" /M
+setx XAOS "C:/Users/Owner/Dropbox/Math/Statistics/Larry Wasserman All of Statistics - A Concise Course in Statistical Inference  2004.pdf" /M
+setx XAOBF "C:/Users/Owner/Dropbox/Math/Computation/analysis and geometry/Analysis-Of-Boolean-Functions-version1-01-by-Ryan-ODonnell.pdf" /M
+setx XAN "C:/Users/Owner/Dropbox/Math/Analysis" /M
+setx XAMIT "C:/Users/Owner/Dropbox/Math/Number theory/finite_fields/AMiIT_review.pdf" /M
+setx XALG "C:/Users/Owner/Dropbox/Math/Computation/Algorithms/algorithms.tex" /M
+setx XAL "C:/Users/Owner/Dropbox/Math/Computation/Algorithms" /M
+setx XAG "C:/Users/Owner/Dropbox/Math/Geometry/algebraic_geometry" /M
+setx XACTV "C:/Users/Owner/Dropbox/Math/Number theory/Additive_combinatorics/Additive Combinatorics, Tao and Vu.pdf" /M
+setx XAC "C:/Users/Owner/Dropbox/Math/Number theory/Additive_combinatorics/Additive combinatorics/main.pdf" /M
+setx XA "C:/Users/Owner/Dropbox/Math/Algebra/abstract_algebra/Algebra Notes.pdf" /M

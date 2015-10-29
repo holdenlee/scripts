@@ -1,0 +1,3 @@
+#!/bin/bash
+
+C:/SciSoft/Anaconda3/python $1

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+git checkout -b $1
+git branch -a
+gitup2 "First commit to $1" $1

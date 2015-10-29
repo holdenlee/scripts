@@ -1,0 +1,8 @@
+#!/bin/bash
+
+cp "C:/Users/Owner/Dropbox/Math/templates/article template.tex" "$11.tex"
+sed -i "s/TITLE 1/$2/g" "$11.tex"
+sed -i "s/TITLE 2/$3/g" "$11.tex"
+sed -i 's/\\section{Topic}/\\input{'"$1"'.tex}/g' "$11.tex"
+texify --pdf --tex-option=-synctex=1 "$11.tex"
+cp "$11.pdf" "C:/Users/Owner/Dropbox/Public/wiki/math/pdfs/$11.pdf"

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cp -f "$XPR6/Adobe/Reader 11.0/Reader/plug_ins/Accessibility.api" "$XPR6/Adobe/Reader 11.0/Reader/plug_ins/disabled/Accessibility.api"
+cp -f "$XPR6/Adobe/Reader 11.0/Reader/plug_ins/MakeAccessible.api" "$XPR6/Adobe/Reader 11.0/Reader/plug_ins/disabled/MakeAccessible.api"
+cp -f "$XPR6/Adobe/Reader 11.0/Reader/plug_ins/ReadOutLoud.api" "$XPR6/Adobe/Reader 11.0/Reader/plug_ins/disabled/ReadOutLoud.api"

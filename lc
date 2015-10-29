@@ -1,0 +1,7 @@
+#!/bin/bash
+
+lclean
+texify.exe --pdf --tex-option=-synctex=1 $1.tex
+biber.exe $1.bcf
+texify.exe --pdf --tex-option=-synctex=1 $1.tex
+cygstart $1.pdf

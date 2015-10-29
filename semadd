@@ -1,0 +1,6 @@
+#!/bin/bash
+
+sed -i 's/%INSERT_HERE/\\input{'"$2"'.tex}\n%INSERT_HERE/g' "$1"
+touch "$(dirname $1)/$2.tex"
+cygstart "$1"
+cygstart "$(dirname $1)/$2.tex"

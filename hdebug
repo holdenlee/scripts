@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ghc $1.hs -prof -auto-all -caf-all && ./$1 +RTS -xc
